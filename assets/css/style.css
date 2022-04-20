@@ -6,12 +6,15 @@ form {
     margin: 20vh auto;
     text-align: center;
     padding: 2rem;
-    background-color: white;
+    background-color: #19B5FE;
+    box-shadow: 1px 1px 10px 1px #000000;
 }
 
 input {
     margin-top: 5vh;
     width: 200px;
+    text-align: center;
+    padding: 5px;
 }
 
 h2 {
