@@ -1,0 +1,27 @@
+form {
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20vh auto;
+    text-align: center;
+    padding: 2rem;
+    background-color: white;
+}
+
+input {
+    margin-top: 5vh;
+    width: 200px;
+}
+
+h2 {
+    margin-top: 5vh;
+}
+
+button {
+    background-color: greenyellow;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-top: 2vh;
+}
